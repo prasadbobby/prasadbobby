@@ -96,8 +96,8 @@
 <summary><b>⚡ Github Stats</b></summary> <br>
 <a href="https://github.com/prasadbobby/prasadbobby">
 
-![](https://github.com/prasadbobby/prasadbobby/blob/master/generated/overview.svg)
-![](https://github.com/prasadbobby/prasadbobby/blob/master/generated/languages.svg)
+![](https://github.com/prasadbobby/readme-test/blob/master/generated/overview.svg)
+![](https://github.com/prasadbobby/readme-test/blob/master/generated/languages.svg)
 
 </a>
 
