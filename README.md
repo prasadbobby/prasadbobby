@@ -105,7 +105,8 @@
 <br/>
 
 <summary><b>☄️ Github Streaks</b></summary> <br>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true" /><br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true) -->
-
+<summary><b>📈 Github Graph</b></summary> <br>
+![](https://activity-graph.herokuapp.com/graph?username=prasadbobby&theme=redical)
 
