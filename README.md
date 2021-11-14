@@ -21,20 +21,20 @@
   <ul>
     <li><a href="https://needap.in/">Need AP</a></li>
     <li><a href="https://netflix-bobby.web.app/">Netflix-Clone</a></li>
-    <!-- <li><a href="https://github.com/mahendragandham/hardwareservices">Hardware Services</a></li> -->
+    <!-- <li><a href="https://github.com//hardwareservices">Hardware Services</a></li> -->
   </ul>
   </details>
   <!-- <details>
   <summary>AI Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendragandham/face-detection-app">Face-detection-App</a></li>
-    <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</a></li>
+    <li><a href="https://github.com//face-detection-app">Face-detection-App</a></li>
+    <li><a href="https://github.com//smile-detector-app">Smile-detector-App</a></li>
   </ul>
   </details> -->
 <!-- <details><summary>Linux Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendragandham/Conqueror">Conqueror</a></li>
-    <li><a href="https://github.com/mahendragandham/Linux_kernel">Linux Kernel</a></li>
+    <li><a href="https://github.com//Conqueror">Conqueror</a></li>
+    <li><a href="https://github.com//Linux_kernel">Linux Kernel</a></li>
   </ul>
 </details> -->
 <h2>The Questions You May Have 😕</h2>
@@ -108,6 +108,4 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true" />
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true) -->
 
-<!-- [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)
-  -->
 
