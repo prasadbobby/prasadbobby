@@ -49,7 +49,7 @@ jobs:
         python3 --version
         python3 generate_images.py
       env:
-        ACCESS_TOKEN: "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"
+        ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ${{ secrets.EXCLUDED }}
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
