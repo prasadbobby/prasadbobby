@@ -101,11 +101,11 @@
 
 </a>
 
-[![Prasadbobby's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=light&show_icons=true)](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=light&show_icons=true)
+[![Prasadbobby's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=radical&show_icons=true)
 <br/>
 
 <summary><b>☄️ Github Streaks</b></summary> <br>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true" /><br/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true&theme=radical" /><br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=prasadbobby&hide_border=true) -->
 <summary><b>📈 Github Graph</b></summary> <br>
 <a href="https://github.com/prasadbobby/prasadbobby">
