@@ -91,7 +91,7 @@
 <img height="30" src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/azure.svg">&nbsp;
 <img height="30" src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/git.svg">&nbsp;
 
-
+[![@prasadbobby's Holopin board](https://holopin.io/api/user/board?user=prasadbobby)](https://holopin.io/@prasadbobby)
 
 <summary><b>⚡ Github Stats</b></summary> <br>
 <a href="https://github.com/prasadbobby/prasadbobby">
@@ -101,7 +101,7 @@
 
 </a>
 
-[![@prasadbobby's Holopin board](https://holopin.io/api/user/board?user=prasadbobby)](https://holopin.io/@prasadbobby)
+
 
 
 [![Prasadbobby's Github Stats](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=prasadbobby&theme=radical&show_icons=true)
