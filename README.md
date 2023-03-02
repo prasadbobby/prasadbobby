@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/prasadbobbyy/"><img src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/facebook.svg" width="30" /></a>&nbsp;
 <a href="mailto:knvdurgaprasad610@gmail.com"><img src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/gmail.svg" width="30" /></a>&nbsp;
 <a href="https://twitter.com/prasadbobby_"><img src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/twitter.svg" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/___mr_introvert____/"><img style="padding:30px" src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/instagram.svg" width="30" /></a>
+<a href="https://www.instagram.com/prasadbobby_/"><img style="padding:30px" src="https://github.com/prasadbobby/prasadbobby/blob/master/logos/instagram.svg" width="30" /></a>
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
